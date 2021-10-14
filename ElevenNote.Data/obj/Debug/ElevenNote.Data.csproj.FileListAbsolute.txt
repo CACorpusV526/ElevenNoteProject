@@ -11,6 +11,5 @@ C:\Users\carlo\source\repos\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework
 C:\Users\carlo\source\repos\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\carlo\source\repos\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\carlo\source\repos\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\carlo\source\repos\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\carlo\source\repos\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\carlo\source\repos\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
