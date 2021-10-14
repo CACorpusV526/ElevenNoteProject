@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D025E86-97DD-4E11-8862-3A1A9A02C96F}</ProjectGuid>
+    <ProjectGuid>{DD674038-F817-479F-9DF3-9C353C74D0EF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ElevenNote.Models</RootNamespace>
@@ -54,10 +54,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NoteCreate.cs" />
-    <Compile Include="NoteDetail.cs" />
-    <Compile Include="NoteEdit.cs" />
-    <Compile Include="NoteListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
